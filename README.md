@@ -1,4 +1,4 @@
-# ArullBotz
+# AlfinQwe
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## UNTUK PENGGUNA HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadteams/bot-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlfinQwe/ALPIN)
 
 ### Instal Buildpack
 * heroku/nodejs
